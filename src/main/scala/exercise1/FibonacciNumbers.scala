@@ -1,4 +1,4 @@
-package fibonacci
+package exercise1
 
 /**
   * Author: Dmitry Artemenko

@@ -1,4 +1,4 @@
-package fibonacci
+package exercise1
 
 import org.scalatest.FlatSpec
 import org.scalatest._
