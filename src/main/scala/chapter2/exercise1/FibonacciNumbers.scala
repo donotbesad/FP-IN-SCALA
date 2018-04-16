@@ -1,4 +1,4 @@
-package exercise1
+package chapter2.exercise1
 
 /**
   * Author: Dmitry Artemenko

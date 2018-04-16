@@ -1,4 +1,4 @@
-package exercise1
+package chapter2.exercise1
 
 import org.scalatest.FlatSpec
 import org.scalatest._

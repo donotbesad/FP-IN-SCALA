@@ -1,4 +1,4 @@
-package exercise2
+package chapter2.exercise2
 
 import org.scalatest.{FlatSpec, Matchers}
 
